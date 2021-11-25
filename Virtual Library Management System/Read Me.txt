@@ -1,0 +1,7 @@
+
+LIBRARY MANAGEMENT SYSTEM
+
+1) To run this project make sure you've "mysql" and "Apache Netbeans" installed on your desktop. Also check if java is installed properly or not.
+2) The admin (staff) login id and pass are created from database only.
+3) I've added a file dump which contains database for this project , import this data and make sure username and password for mysql are set to: root
+4) Staff id and login pass are: luci and 12345 
